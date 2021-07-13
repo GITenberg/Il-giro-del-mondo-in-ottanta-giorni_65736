@@ -1,5 +1,8 @@
 _repo: Il-giro-del-mondo-in-ottanta-giorni_65736
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65736-h/images/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -16,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://en.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65736#Il-giro-del-mondo-in-ottanta-giorni
 gutenberg_issued: '2021-06-30'
 gutenberg_type: Text
 identifiers:
